@@ -1,0 +1,16 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(“®Ÿ…8ı‰ä·¾0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶Úæøÿÿÿÿ8‚³Ş·¾0
+X	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬8ïËã·¾0
+\
+java:S1128":Remove this unused import 'org.apache.tomcat.jni.Address'.(îâÿúÿÿÿÿ8ğËã·¾0
+U
+java:S1128"8Remove this unused import 'org.reto3.entities.Category'.(ÉÀ£8ğËã·¾0
+V
+java:S1128"4Remove this unused import 'org.reto3.entities.Farm'.(‰§×éûÿÿÿÿ8ğËã·¾0
+h
+java:S1128"FRemove this unused import 'org.reto3.repositories.CategoryRepository'.(®ƒµñüÿÿÿÿ8Šä·¾0
+d
+java:S1128"BRemove this unused import 'org.reto3.repositories.FarmRepository'.(—•ÉÚûÿÿÿÿ8‚Šä·¾0
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8‚Šä·¾0
